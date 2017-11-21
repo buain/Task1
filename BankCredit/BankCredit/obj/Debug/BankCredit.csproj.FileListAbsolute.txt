@@ -1,0 +1,7 @@
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\obj\Debug\BankCredit.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\obj\Debug\BankCredit.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\bin\Debug\BankCredit.exe.config
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\bin\Debug\BankCredit.exe
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\bin\Debug\BankCredit.pdb
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\obj\Debug\BankCredit.exe
+D:\.NET\Projects\Lesson8\Task1\BankCredit\BankCredit\obj\Debug\BankCredit.pdb
